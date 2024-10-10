@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_affiliate_affiliate,affiliate.affiliate,model_affiliate_affiliate,,1,1,1,1
+access_affiliate_program,affiliate.program,model_affiliate_program,,1,1,1,1
+access_sale_order_affiliate,sale.order,model_sale_order,group_sale_order_affiliate,1,1,0,0

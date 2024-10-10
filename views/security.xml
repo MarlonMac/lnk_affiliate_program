@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="group_sale_order_affiliate" model="res.groups">
+            <field name="name">Acceso a Información de Afiliados en Ordenes de Venta</field>
+            <field name="category_id" ref="base.module_category_sales_management"/>
+        </record>
+    </data>
+</odoo>
