@@ -38,6 +38,6 @@
             <field name="view_mode">tree,form</field>
         </record>
 
-        <menuitem name="Programas de Comisión" id="affiliate_program_menu_2" parent="affiliate_program_menu" action="action_affiliate_program"/>
+        <menuitem name="Programas de Comisión" id="lnk_affiliate_program_menu_2" parent="affiliate_program_menu" action="action_affiliate_program"/>
     </data>
 </odoo>
